@@ -31,7 +31,7 @@
 
 		enlace.appendChild(contenido);
 		enlace.setAttribute("href", "#");
-		trash.setAttribute("src", "../img/trash.png");
+		trash.setAttribute("src", "./img/trash.png");
 
 		// Agrergamos el enlace (a) a la nueva tarea (li)
 		nuevaTarea.appendChild(check);
